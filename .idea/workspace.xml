@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dabc7ab-1ce0-464c-ba11-4686761c902b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/aboutMe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/homepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/projects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/src/components/resume.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZjSdxYmC7y2pZVliOK2BZ7srjP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dabc7ab-1ce0-464c-ba11-4686761c902b" name="Default Changelist" comment="" />
+      <created>1585351100637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585351100637</updated>
+      <workItem from="1585351103627" duration="4965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="657" y="-630" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585352062511">
+      <screen x="239" y="-768" width="1360" height="768" />
+    </state>
+    <state x="657" y="-630" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120/239.-768.1360.768@239.-768.1360.768" timestamp="1585352062511" />
+  </component>
+</project>
